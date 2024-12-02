@@ -1,0 +1,13 @@
+{
+    "name": "image-processing",
+    "version": "1.0.0",
+    "description": "Process images using Jimp to modify pixels",
+    "main": "processImages.js",
+    "scripts": {
+      "start": "node processImages.js"
+    },
+    "dependencies": {
+      "jimp": "^0.16.1"
+    }
+}
+  
